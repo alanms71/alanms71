@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanms71
 - 👀 I’m interested in learning to develop
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning sql and c#
 -- 📫 How to reach me alanms71@hotmail.com
 
 <!---
